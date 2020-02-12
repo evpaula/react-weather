@@ -1,7 +1,7 @@
 {
-  "name": "react-weather-app",
+  "name": "react-weather-application",
   "version": "1.0.0",
-  "description": "",
+  "description": "Weather Application, using React.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

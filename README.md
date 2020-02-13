@@ -1,11 +1,5 @@
-<table style="height: 24px;" width="175">
-<tbody>
-<tr>
-<td style="width: 79px;"><img src="https://ibb.co/NCk6cs2" alt="S&atilde;o Paulo" /></td>
-<td style="width: 80px;"><img src="https://imgur.com/pLxHiO9" alt="Nova York" /></td>
-</tr>
-</tbody>
-</table>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/PFjkJHX"><a href="//imgur.com/a/PFjkJHX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <p>This project was bootstrapped with&nbsp;<a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
 <h2><a id="user-content-available-scripts" class="anchor" href="https://github.com/TylerPottsDev/weather-react#available-scripts" aria-hidden="true"></a>Available Scripts</h2>
 <p>In the project directory, you can run:</p>

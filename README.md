@@ -1,7 +1,5 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PFjkJHX"><a href="//imgur.com/a/PFjkJHX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <p>This project was bootstrapped with&nbsp;<a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
-<h2><a id="user-content-available-scripts" class="anchor" href="https://github.com/TylerPottsDev/weather-react#available-scripts" aria-hidden="true"></a>Available Scripts</h2>
+<h2><a id="user-content-available-scripts" class="anchor" href="https://github.com/TylerPottsDev/weather-react#available-scripts" aria-hidden="true"></a><br />Available Scripts</h2>
 <p>In the project directory, you can run:</p>
 <h3><a id="user-content-yarn-start" class="anchor" href="https://github.com/TylerPottsDev/weather-react#yarn-start" aria-hidden="true"></a><code>yarn start</code></h3>
 <p>Runs the app in the development mode.<br />Open&nbsp;<a href="http://localhost:3000/" rel="nofollow">http://localhost:3000</a>&nbsp;to view it in the browser.</p>

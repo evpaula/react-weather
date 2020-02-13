@@ -1,4 +1,6 @@
+![newyork](https://user-images.githubusercontent.com/46961424/74393523-26174780-4de9-11ea-8130-00e89385a29c.png)
 
+![saopaulo](https://user-images.githubusercontent.com/46961424/74393665-79899580-4de9-11ea-9179-b0293e7537e6.png)
 
 
 <p>This project was bootstrapped with&nbsp;<a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
